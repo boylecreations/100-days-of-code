@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+Start Date, June 18th 2017
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
